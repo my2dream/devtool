@@ -9,5 +9,5 @@ RUN chmod +x /cmd.sh
 
 EXPOSE 9090 9191
 USER uwsgi
-
+3a403Z0TC5ur3iMdyqyfu7NqkWTblebqdFJ7SD4K
 cmd ["/cmd.sh"]
